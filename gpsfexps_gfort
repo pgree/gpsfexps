@@ -1,0 +1,8 @@
+  rm gpsfexps.o
+  rm int2
+  gfortran -std=legacy -c -w gpsfexps.f
+  gfortran -std=legacy -w -o int2  gpsfexps.o prini.f quaplot.f \
+  	       	legeexps.f  gammanew_eval.f xk_exps.f \
+		svdpivot.f  qleigen_trid.f qrsolve.f \
+                cjbvals.f
+  int2
