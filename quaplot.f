@@ -1,3 +1,5 @@
+(c) Vladimir Rokhlin
+c
 cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 c 
 c        This is the end of the testing code, and the 
