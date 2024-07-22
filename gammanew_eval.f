@@ -1,4 +1,4 @@
-(c) Vladimir Rokhlin
+c (c) Vladimir Rokhlin
 c
 c 
 cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc 
